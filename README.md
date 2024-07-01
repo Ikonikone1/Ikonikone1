@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devansh
-- 🌱 I’m currently taking the course cs50
+
 
 
 <!---
